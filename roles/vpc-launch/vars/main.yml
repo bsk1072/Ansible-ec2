@@ -1,0 +1,16 @@
+---
+
+# AWS Credentials
+aws_access_key: "AKIAJRPCTKFGERWHUFZA"
+aws_secret_key: "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"
+aws_region: "us-east-1"
+
+# VPC Information
+vpc_name: "MyVPC"
+vpc_cidr_block: "10.0.0.0/16"
+
+# For Security Group Rule
+my_ip: "0.0.0.0"
+
+# Subnets
+public_subnet_cidr: "10.0.0.0/24"
